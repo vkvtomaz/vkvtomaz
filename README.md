@@ -46,6 +46,12 @@ Para mim, entender o *porquê* das coisas é tão importante quanto aprender a f
 
 Aqui no perfil você encontrará projetos desenvolvidos durante minha formação e também projetos próprios, explorando diferentes áreas da tecnologia.
 
+🎵 Simplificando Cifras — Colaboração
+
+Projeto colaborativo voltado à organização de repertórios musicais, cifras e recursos para apresentações musicais.
+Atuação: desenvolvimento e colaboração no código, trabalhando com integração de APIs e funcionalidades da aplicação.
+(https://github.com/thiagodestaquefiat-commits/simplificando_cifras)
+
 ### 🤖 Machine Learning
 
 Projetos envolvendo classificação, regressão, análise de sentimentos e técnicas de agrupamento (*clustering*).

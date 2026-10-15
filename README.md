@@ -4,9 +4,9 @@
 
 Sou uma pessoa curiosa, comunicativa e gosto de entender **como as coisas funcionam**.
 
-Depois de mais de sete anos trabalhando na indústria, decidi mudar minha trajetória profissional e entrar na área de tecnologia. Sou Formado em **Análise e Desenvolvimento de Sistemas** e concluindo minha formação pelo **Entra21**, com foco em programação em Python, dados e Inteligência Artificial.
+Depois de mais de sete anos trabalhando na indústria, decidi mudar minha trajetória profissional e entrar na área de tecnologia. Sou Formado em **Análise e Desenvolvimento de Sistemas** e conclui minha formação pelo **Entra21**, com foco em programação em Python, dados e Inteligência Artificial. Atualmente curso Pós-Graduação em Engenharia de Software com Inteligência Artificial.
 
-Para mim, entender o *porquê* das coisas é tão importante quanto aprender a fazer.
+Gosto muito de aprender coisas novas, e sentir que estou evoluindo junto com o mundo.
 
 ---
 

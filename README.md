@@ -4,7 +4,7 @@
 
 Sou uma pessoa curiosa, comunicativa e gosto de entender **como as coisas funcionam**.
 
-Depois de mais de sete anos trabalhando na indústria, decidi mudar minha trajetória profissional e entrar na área de tecnologia. Sou Formado em **Análise e Desenvolvimento de Sistemas** e conclui minha formação pelo **Entra21**, com foco em programação em Python, dados e Inteligência Artificial. Atualmente curso Pós-Graduação em Engenharia de Software com Inteligência Artificial.
+Depois de mais de sete anos trabalhando na indústria, decidi mudar minha trajetória profissional e entrar na área de tecnologia. Sou Recém Formado em **Análise e Desenvolvimento de Sistemas** e complemento minha formação com o programa **Entra21** e **Curso Python na EBAC**, com foco em programação em Python, dados e Inteligência Artificial. Atualmente curso Pós-Graduação em Engenharia de Software com Inteligência Artificial.
 
 Gosto muito de aprender coisas novas, e sentir que estou evoluindo junto com o mundo.
 

@@ -42,15 +42,13 @@ Gosto muito de aprender coisas novas, e sentir que estou evoluindo junto com o m
 
 ---
 
-## 📚 Projetos
 
-Aqui no perfil você encontrará projetos desenvolvidos durante minha formação e também projetos próprios, explorando diferentes áreas da tecnologia.
 
-🎵 Simplificando Cifras — Colaboração
+Aqui no perfil você encontrará projetos desenvolvidos durante minha formação e também projetos próprios, explorando diferentes áreas da tecnologia (incluindo colaborações como 🎵 Simplificando Cifras - Atualmente privado) contendo:
 
-Projeto colaborativo voltado à organização de repertórios musicais, cifras e recursos para apresentações musicais.
-Atuação: desenvolvimento e colaboração no código, trabalhando com integração de APIs e funcionalidades da aplicação.
-(https://github.com/thiagodestaquefiat-commits/simplificando_cifras)
+### 🌐 Landing Pages Responsivas
+
+Uso de HTML e CSS/JavaScript de forma semântica, respeitando clean code e responsividade.
 
 ### 🤖 Machine Learning
 
@@ -60,6 +58,7 @@ Projetos envolvendo classificação, regressão, análise de sentimentos e técn
 
 Exploração e visualização de dados utilizando Python, Pandas, NumPy e bibliotecas de visualização.
 
+e mais um pouco.......
 
 ---
 
